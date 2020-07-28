@@ -2,5 +2,5 @@
 
 ## First Draft Video Tutorial Project
 
-[Video Tutorial Project - Draft](FJ-Zillow-Org.github.io/how-to-video)
+[Video Tutorial Project - Draft](fj-zillow-org.github.io/how-to-video)
 
