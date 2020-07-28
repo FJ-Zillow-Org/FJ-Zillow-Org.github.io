@@ -1,4 +1,4 @@
-# This is a practice site hosting a markdown files to show.
+# This is a practice site hosting a markdown file to show...
 
 ## First Draft Video Tutorial Project
 
