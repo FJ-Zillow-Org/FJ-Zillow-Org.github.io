@@ -1,4 +1,4 @@
-# This is a practice site hosting a markdown file to show...
+# <font color="teal">This is a practice site hosting a markdown file to show...</font>
 
 ## First Draft Video Tutorial Project
 
