@@ -6,7 +6,7 @@ By creating a short, 3-5 minutes, video tutorial explaining a concept or skill, 
 
 ### Students will... 
 
-- gain mastery of a skill or concept.
+- deomnstrate mastery of a skill or concept.
 - practice listening to and speaking the lanugae of data science.
 - create valuable learning resources for their cohort.
 
