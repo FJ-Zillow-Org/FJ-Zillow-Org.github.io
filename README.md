@@ -4,3 +4,5 @@
 
 [Video Tutorial Project - Draft](https://fj-zillow-org.github.io/how_to_video)
 
+[Pandas Series Review Using JupyterLab Export](https://fj-zillow-org.github.io/pandas_series_review/pandas_series_review)
+
